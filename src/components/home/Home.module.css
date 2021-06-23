@@ -1,0 +1,21 @@
+.homePage{
+  margin: 50px auto;
+}
+
+.header{
+  font-size: 20px;
+  font-weight: 600;
+  color: #0c2742;
+}
+
+.searchBar{
+  width: 300px;
+  margin: 50px auto;
+}
+
+.logoutBtn{
+  position: absolute !important;
+  right: 0px !important;
+  top: 20px !important;
+  margin: none;
+}
